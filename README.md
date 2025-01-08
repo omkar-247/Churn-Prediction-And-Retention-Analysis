@@ -1,4 +1,6 @@
 # Churn Prediction and Retention Analysis
+![image](https://github.com/user-attachments/assets/1bce6903-dbc9-4bbf-9b15-9b019e2b36e0)
+
 
 ## Project Overview
 This project focuses on predicting customer churn and providing key retention insights using a combination of machine learning (Random Forest), SQL for data manipulation, and Power BI for data visualization. By predicting which customers are likely to churn, we can take action to reduce churn rates and improve customer retention strategies.
