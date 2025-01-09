@@ -73,8 +73,11 @@ The Random Forest model achieved an accuracy of **85%**, with a precision of **8
 Here are some key visuals from the Power BI dashboard that illustrate the findings:
 
 1.**Churn rate by customer tenure**: Helps visualize how customer churn varies with tenure.
+
 2.**Churn by gender, services, and internet type**: Gives a breakdown of churn across key features.
+
 3.**Churn reasons**: Based on feedback from customers, we can see common reasons for churn.
+
 4.**Total revenue by customer status**: Visualizes the financial impact of churn.
 
 ![Dashboard ](https://github.com/omkar-247/Churn-Prediction-And-Retention-/blob/main/Churn%20Analysis.png)
