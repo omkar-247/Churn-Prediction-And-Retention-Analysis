@@ -88,6 +88,6 @@ Here are some key visuals from the Power BI dashboard that illustrate the findin
   - [Churn Analysis Visual](https://github.com/omkar-247/Churn-Prediction-And-Retention-/blob/main/Churn%20Analysis.png)
   - [Churn Prediction Visual](https://github.com/omkar-247/Churn-Prediction-And-Retention-/blob/main/Churn%20Prediction.png)
 - `presentation`:
-  - [Detailed Presentation](presentation/churn_project_presentation.pdf)
+  - [Detailed Presentation]([presentation/churn_project_presentation.pdf](https://github.com/omkar-247/Churn-Prediction-And-Retention-Analysis/blob/main/Churn%20Prediction%20and%20%20Retention%20Analysis%20.pptx))
 
 
