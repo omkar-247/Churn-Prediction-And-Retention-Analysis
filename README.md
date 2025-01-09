@@ -71,11 +71,11 @@ The Random Forest model achieved an accuracy of **85%**, with a precision of **8
 
 ### Power BI Dashboard 
 Here are some key visuals from the Power BI dashboard that illustrate the findings:
-1. **Churn by Age and Tenure**: Visual representation of how churn rates vary across different age groups and tenure.
-2. **Churn by Payment Method**: A column chart showing the churn rates for each payment method.
-3. **Churn by Service Usage**:  A table showing churn distribution across different services like Streaming Music and TV.
-4. **Churn Rate by Internet Type**: Churn rates segmented by Internet Type(Fiber Optic, Cable, etc.).
-5. **Churn by Gender**: A donut Chart showing Churn rate among the Male and Female.
+
+1.**Churn rate by customer tenure**: Helps visualize how customer churn varies with tenure.
+2.**Churn by gender, services, and internet type**: Gives a breakdown of churn across key features.
+3.**Churn reasons**: Based on feedback from customers, we can see common reasons for churn.
+4.**Total revenue by customer status**: Visualizes the financial impact of churn.
 
 ![Dashboard ](https://github.com/omkar-247/Churn-Prediction-And-Retention-/blob/main/Churn%20Analysis.png)
 ## Project Files
